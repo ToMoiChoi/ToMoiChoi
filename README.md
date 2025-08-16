@@ -5,7 +5,6 @@
 
 - ✍ I'm a student of: [Thang Long University ](https://thanglong.edu.vn/) (TLU).
 
-- 🌱 I’m currently learning **Front-end Developer**
 
 ## 📫 How to reach me:
 
