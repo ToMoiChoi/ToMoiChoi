@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viet</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tiennhm" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/TienNHM" alt="tiennhm" /> </p>
-
-- ✍ I'm a student of: [Thang Long University ](https://thanglong.edu.vn/) (TLU).
-
-
-## 📫 How to reach me:
-
-<!--
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) -->
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+✍ I'd studied Computer Sciences of: [Thang Long University ](https://thanglong.edu.vn/),VietNam (TLU).</br>
+💭 Currently learning about data analytics <br/>
+    ## 📫 How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/t%C3%B4-quang-vi%E1%BB%87t-a6a5a9246/" target="_blank">
@@ -38,7 +33,7 @@
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
   <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-  <img src="https://icons8.com/icon/aqb9SdV9P8oC/prisma-orm"/>
+  <img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000" width ="45" height="45"/>
 </p>
 
 <table style="width:100%;">
@@ -55,8 +50,8 @@
   </tr>
 </table>
 
-# Certificates:
-
+<!-- # Certificates: -->
+<!-- 
 <-- <p align="center">
   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
     <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
@@ -97,4 +92,5 @@
   <a href="https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/intro-to-deep-learning">
     <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
   </a>
-</p> -->
+</p> --> -->
+****
