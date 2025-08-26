@@ -2,7 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-✍ I'd studied Computer Sciences of: [Thang Long University ](https://thanglong.edu.vn/),VietNam (TLU).</br>
+✍ I'd studied Computer Sciences of: [Thang Long University ](https://thanglong.edu.vn) (TLU).</br>
 💭 Currently learning about data analytics <br/>
     ## 📫 How to reach me:
 
