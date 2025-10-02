@@ -54,10 +54,9 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/certificates/8b16c09cc75b">
-    <img alt="HackerRank" title="HackerRank" src="https://en.m.wikipedia.org/wiki/HackerRank#/media/File%3AHackerRank_Icon-1000px.png" width="300px" />
+    <img alt="HackerRank" title="HackerRank SQL Advanced" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="100px" height="100px" />
   </a>
-  <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=ad7fb8de-67d7-487f-95ee-f3871a61b1e1">
-    <img alt="Machine Learning Onramp" title="Machine Learning Onramp" src="certificates/Machine-Learning-Onramp-certificate.png" width="300px" />
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/9OOSBPLSTJVH">
+    <img alt="Coursea" title="Google Data Analyst " src="https://missiongraduatenm.org/wp-content/uploads/2022/07/coursera-social-logo-brand-1024x533.png" width="100px" height="100px" />
   </a>
 </p>
-****
