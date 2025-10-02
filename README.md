@@ -4,7 +4,8 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 ✍ I'd studied Computer Sciences of: [Thang Long University ](https://thanglong.edu.vn) (TLU).</br>
 💭 Enthusiastic and motivated individual building a robust skill set in Data Analytics. Currently honing expertise in data manipulation with SQL and Python (Pandas, NumPy), creating dynamic dashboards with Power BI/Tableau, and applying statistical principles for analysis. A quick learner with a keen eye for detail, seeking an entry-level opportunity to contribute to data-informed decision-making and grow within a collaborative environment. <br/>
-    ## 📫 How to reach me:
+
+## 📫 How to reach me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/t%C3%B4-quang-vi%E1%BB%87t-a6a5a9246/" target="_blank">
