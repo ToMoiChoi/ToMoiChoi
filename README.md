@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 ✍ I'd studied Computer Sciences of: [Thang Long University ](https://thanglong.edu.vn) (TLU).</br>
-💭 Currently learning about data analytics <br/>
+💭 Enthusiastic and motivated individual building a robust skill set in Data Analytics. Currently honing expertise in data manipulation with SQL and Python (Pandas, NumPy), creating dynamic dashboards with Power BI/Tableau, and applying statistical principles for analysis. A quick learner with a keen eye for detail, seeking an entry-level opportunity to contribute to data-informed decision-making and grow within a collaborative environment. <br/>
     ## 📫 How to reach me:
 
 <p align="center">
@@ -24,16 +24,17 @@
 ## Skills:
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/html.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-  <img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000" width ="45" height="45"/>
+    <img src="https://img.icons8.com/color/48/000000/py.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" weigh='40' height='40'/>
+    <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/8ecdf9d3-6f62-4311-9e4a-485249b54d82" title='Power BI"/>
+    <img src="https://img.icons8.com/color/48/000000/html.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/color/48/000000/css.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" weigh='40' height='40'/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"height='40' weight='40'/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" weigh='40' height='40'/>
+    <img src="https://img.icons8.com/?size=100&id=aqb9SdV9P8oC&format=png&color=000000" width ="40" height="40"/>
 </p>
 
 <table style="width:100%;">
