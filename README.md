@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viet</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png" alt="Vietnam"/></p>
-<h3 align="center">A passionate Data Engineer from Vietnam</h3>
+<h3 align="center">A passionate Data  from Vietnam</h3>
 
 <p align="center">
   👨🏻‍💻 <b>Data Engineer</b> sharing my journey and learnings in tech<br/>
